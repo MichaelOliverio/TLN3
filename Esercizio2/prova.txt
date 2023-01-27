@@ -1,0 +1,218 @@
+token:  feeling
+['affect', 'affection', 'agitation', 'ambivalence', 'apathy', 'astonishment', 'calmness', 'complex', 'desire', 'despair', 'devastation', 'dislike', 'emotion', 'enthusiasm', 'expectation', 'faintness', 'fearlessness', 'glow', 'gratitude', 'gravity', 'happiness', 'hope', 'humility', 'ingratitude', 'levity', 'liking', 'pain', 'pang', 'passion', 'pleasure', 'pride', 'sadness', 'sensitivity', 'sentiment', 'sex', 'shame', 'soul', 'sympathy', 'temper', 'thing', 'unconcern', 'effect', 'first_blush', 'intuition', 'presence', 'Hollywood', 'Zeitgeist', 'constriction', 'creepiness', 'cutaneous_sensation', 'sprachgefuhl', 'anger', 'burn', 'chafe', 'cool_off', 'die', 'fly_high', 'fume', 'glow', 'glow', 'harbor', 'incline', 'pride', 'recapture', 'rejoice', 'repent', 'sadden', 'smolder', 'suffer', 'sympathize', 'take_pride', 'feel_like_a_million', 'suffocate', 'crawl', 'grope_for']
+
+token:  human
+['Homo_erectus', 'Homo_habilis', 'Homo_sapiens', 'Homo_soloensis', 'Neandertal_man', 'Rhodesian_man', 'world']
+
+token:  feel
+['Hollywood', 'Zeitgeist', 'texture', 'touch', 'anger', 'burn', 'chafe', 'cool_off', 'die', 'fly_high', 'fume', 'glow', 'glow', 'harbor', 'incline', 'pride', 'recapture', 'rejoice', 'repent', 'sadden', 'smolder', 'suffer', 'sympathize', 'take_pride', 'feel_like_a_million', 'suffocate', 'crawl', 'grope_for']
+
+token:  something
+[]
+
+token:  state
+['American_state', 'Australian_state', 'Canadian_province', 'commonwealth', 'eparchy', 'Italian_region', 'Soviet_Socialist_Republic', 'action', 'being', 'cleavage', 'condition', 'condition', 'conditionality', 'conflict', 'damnation', 'dead_letter', 'death', 'degree', 'dependence', 'disorder', 'dystopia', 'employment', 'end', 'enlargement', 'feeling', 'flux', 'freedom', 'grace', 'ground_state', 'heterozygosity', 'homozygosity', 'hostility', 'illumination', 'immaturity', 'imminence', 'imperfection', 'inaction', 'integrity', 'isomerism', 'kalemia', 'maturity', 'medium', 'merchantability', 'motion', 'motionlessness', 'nationhood', 'neotony', 'nonbeing', 'obligation', 'office', 'omnipotence', 'omniscience', 'order', 'ornamentation', 'ownership', 'paternity', 'perfection', 'plurality', 'polyvalence', 'polyvalence', 'readiness', 'receivership', 'relationship', 'relationship', 'representation', 'revocation', 'separation', 'situation', 'skillfulness', 'status', 'temporary_state', 'tribalism', 'turgor', 'unemployment', 'union', 'utilization', 'utopia', 'wild', 'Soviets', 'welfare_state', 'ally', 'city_state', 'commonwealth_country', 'developing_country', 'Dominion', 'foreign_country', 'Reich', 'rogue_state', 'sea_power', 'suzerain', 'world_power', 'gas', 'liquid', 'phase', 'plasma', 'solid', 'African_country', 'Asian_country', 'banana_republic', 'buffer_state', 'European_country', 'fatherland', 'kingdom', 'North_American_country', 'South_American_country', 'sultanate', 'tax_haven', 'Foggy_Bottom', 'add', 'announce', 'answer', 'articulate', 'declare', 'declare', 'explain', 'get_out', 'give', 'misstate', 'note', 'precede', 'present', 'summarize', 'vote', 'vote']
+
+token:  living
+['eternal_life', 'skin', 'survival', 'comforts', 'maintenance', 'meal_ticket', 'subsistence', 'board', 'camp', 'cohabit', 'lodge', 'neighbor', 'nest', 'occupy', 'overpopulate', 'people', 'reside', 'tenant', 'bachelor', 'buccaneer', 'bushwhack', 'cash_out', 'dissipate', 'eke_out', 'move', 'pig', 'swing', 'unlive', 'vegetate', 'wanton', 'live_out', 'perennate', 'stand_up', 'breathe', 'freewheel', 'relive', 'taste']
+
+token:  mental
+[]
+
+token:  being
+['actuality', 'animation', 'coexistence', 'eternity', 'life', 'life', 'possibility', 'preexistence', 'presence', 'subsistence', 'transcendence', 'aerobe', 'amphidiploid', 'anaerobe', 'animal', 'animalcule', 'atavist', 'benthos', 'carrier', 'clone', 'commensal', 'conspecific', 'denizen', 'diploid', 'dwarf', 'eukaryote', 'fungus', 'haploid', 'heteroploid', 'heterotroph', 'host', 'hybrid', 'individual', 'katharobe', 'mascot', 'microorganism', 'mutant', 'myrmecophile', 'native', 'nekton', 'nonvascular_organism', 'parasite', 'parent', 'person', 'plankton', 'plant', 'polymorph', 'polyploid', 'postdiluvian', 'prokaryote', 'recombinant', 'relative', 'relict', 'saprobe', 'saprophyte', 'sitter', 'stander', 'utterer', 'zooid', 'abound', 'accept', 'account', 'account_for', 'act', 'answer', 'appear', 'bake', 'balance', 'be_well', 'beat', 'begin', 'begin', 'belong', 'belong', 'belong', 'belong', 'breathe', 'buy', 'clean', 'cohere', 'come_in_for', 'come_in_handy', 'compact', 'compare', 'confuse', 'connect', 'consist', 'consist', 'contain', 'contain', 'continue', 'cost', 'count', 'count', 'cover', 'cut', 'cut_across', 'deck', 'depend', 'deserve', 'disagree', 'distribute', 'diverge', 'draw', 'end', 'fall', 'fall', 'feel', 'figure', 'fit', 'gape', 'go', 'gravitate', 'hail', 'hang', 'head', 'hold', 'hoodoo', 'hum', 'impend', 'incarnate', 'iridesce', 'jumble', 'kill', 'lend', 'let_go', 'lie', 'litter', 'loiter', 'look', 'look', 'lubricate', 'make', 'make_sense', 'measure', 'mope', 'object', 'osculate', 'owe', 'pay', 'point', 'press', 'promise', 'prove', 'put_out', 'rage', 'range', 'rank', 'rate', 'recognize', 'relate', 'remain', 'represent', 'rest', 'retard', 'run', 'run_into', 'rut', 'seem', 'seethe', 'sell', 'sell', 'sell', 'shine', 'shine', 'sparkle', 'specify', 'squat', 'stagnate', 'stagnate', 'stand', 'stand', 'stand_by', 'stay', 'stay', 'stick', 'stink', 'subtend', 'suck', 'suffer', 'suffer', 'suit', 'swim', 'swim', 'swing', 'tend', 'test', 'total', 'translate', 'transplant', 'trim', 'underlie', 'want', 'wash', 'wind', 'work', 'attend', 'belong', 'center_on', 'come', 'cover', 'extend', 'face', 'follow', 'go', 'inhabit', 'lie', 'lie', 'occupy', 'populate', 'reach', 'run', 'sit', 'sit', 'stand_back', 'straddle', 'stretch', 'coexist', 'come', 'distribute', 'dwell', 'dwell', 'endanger', 'flow', 'indwell', 'kick_around', 'preexist', 'prevail', 'equate', 'match', 'represent', 'translate', 'compose', 'fall_into', 'form', 'make', 'present', 'range', 'supplement', 'cox', 'vet', 'body', 'exemplify', 'set_back']
+
+token:  animal
+['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'domestic_animal', 'embryo', 'feeder', 'female', 'fictional_animal', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'marine_animal', 'mate', 'metazoan', 'migrator', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'poikilotherm', 'predator', 'prey', 'racer', 'range_animal', 'scavenger', 'stayer', 'stunt', 'survivor', 'thoroughbred', 'varmint', 'work_animal', 'young', 'zooplankton']
+
+token:  sensation
+['masking', 'smell', 'sound', 'synesthesia', 'taste', 'threshold', 'vision', 'track_star', 'modality', 'sensitivity']
+
+token:  concept
+['abstraction', 'category', 'conceptualization', 'fact', 'hypothesis', 'law', 'law', 'lexicalized_concept', 'notion', 'part', 'property', 'quantity', 'rule', 'rule', 'whole']
+
+token:  certain
+[]
+
+token:  mind
+['ego', 'noddle', 'subconscious_mind', 'tabula_rasa', 'unconscious_mind', 'decision', 'bristle_at', 'worry', 'tend', 'attend_to']
+
+token:  express
+['pony_express', 'beam', 'burst_out', 'exude', 'give', 'give_voice', 'imply', 'imply', 'menace', 'smile', 'sneer', 'stress', 'suggest', 'vent', 'breathe', 'clamor', 'curse', 'drop', 'exclaim', 'get_off', 'hurl', 'marvel', 'platitudinize', 'pooh-pooh', 'pour_out', 'raise', 'represent', 'say', 'state', 'vociferate', 'voice', 'wish', 'quantify', 'vote', 'vote', 'ream']
+
+token:  emotion
+['anger', 'anxiety', 'conditioned_emotional_response', 'emotional_state', 'fear', 'fear', 'hate', 'joy', 'love']
+
+token:  mood
+['good_humor', 'ill_humor', 'peeve', 'sulk', 'imperative_mood', 'indicative_mood', 'interrogative_mood', 'optative_mood', 'subjunctive_mood']
+
+token:  range
+['approximate_range', 'confines', 'contrast', 'gamut', 'horizon', 'internationality', 'latitude', 'palette', 'spectrum', 'sweep', 'earshot', 'rifle_range', 'view', 'home_range', 'practice_range', 'rifle_range', 'test_range', 'band', 'sight', 'charcoal_burner', 'cookstove', 'electric_range', 'gas_range', 'potbelly', 'Primus_stove', 'spirit_stove', 'gallivant', 'maunder', 'carry', 'spread-eagle', 'compart', 'downgrade', 'prioritize', 'reorder', 'seed', 'sequence', 'shortlist', 'subordinate', 'superordinate', 'upgrade']
+
+token:  situation
+['absurd', 'acceptance', 'ballgame', 'challenge', 'childlessness', 'complication', 'crowding', 'disequilibrium', 'element', 'environment', 'equilibrium', 'exclusion', 'goldfish_bowl', 'hotbed', 'inclusion', 'intestacy', 'picture', 'prison', 'rejection', 'size', 'square_one', 'status_quo', 'thing', 'place', 'poverty_trap', 'soup', 'stymie', 'conflict_of_interest', 'crisis', 'crunch', 'deadlock', "hornet's_nest", 'hot_potato', 'how-do-you-do', 'imbroglio', 'Mexican_standoff', 'nightmare', 'no-win_situation', 'pass', 'purgatory', 'quicksand', 'swamp', 'time_bomb', 'tinderbox', 'urgency', 'active_site', 'antigenic_determinant', 'close_quarters', 'locus', 'locus_of_infection', 'restriction_site', 'academicianship', 'accountantship', 'admiralty', 'ambassadorship', 'apostleship', 'apprenticeship', 'associateship', 'attorneyship', 'bailiffship', 'baronetage', 'bishopry', 'cadetship', 'caliphate', 'captainship', 'cardinalship', 'chairmanship', 'chancellorship', 'chaplaincy', 'chieftaincy', 'clerkship', 'commandership', 'comptrollership', 'consulship', 'controllership', 'councillorship', 'counselorship', 'curacy', 'curatorship', 'custodianship', 'deanship', 'directorship', 'discipleship', 'editorship', 'eldership', 'emirate', 'fatherhood', 'fatherhood', 'foremanship', 'generalship', 'governorship', 'headship', 'headship', 'hot_seat', 'incumbency', 'inspectorship', 'instructorship', 'internship', 'judgeship', 'khanate', 'lectureship', 'legation', 'legislatorship', 'librarianship', 'lieutenancy', 'magistracy', 'managership', 'manhood', 'marshalship', 'mastership', 'mayoralty', 'messiahship', 'moderatorship', 'overlordship', 'pastorship', 'peasanthood', 'plum', 'praetorship', 'precentorship', 'preceptorship', 'prefecture', 'prelacy', 'premiership', 'presidency', 'primateship', 'principalship', 'priorship', 'proconsulship', 'proctorship', 'professorship', 'protectorship', 'public_office', 'rabbinate', 'receivership', 'rectorship', 'regency', 'residency', 'rulership', 'sainthood', 'secretaryship', 'seigniory', 'senatorship', 'sinecure', 'solicitorship', 'speakership', 'stewardship', 'studentship', 'teachership', 'thaneship', 'throne', 'treasurership', 'tribuneship', 'trusteeship', 'vice-presidency', 'viceroyship', 'viziership', 'wardenship', 'wardership', 'womanhood']
+
+token:  think
+['feel', 'hold', 'rethink', 'see', 'think', 'think_of', 'suspect', 'associate', 'brainstorm', 'chew_over', 'concentrate', 'evaluate', 'give', 'philosophize', 'plan', 'puzzle_over', 'rationalize', 'reason', 'reason', 'study', 'think', 'think', 'think', 'think_about', 'know', 'recognize', 'review', 'aim', 'design', 'plan']
+
+token:  make
+['reshuffle', 'riffle', 'overdo', 'get', 'leave', 'render', 'arouse', 'assemble', 'bear', 'beat', 'beget', 'blast', 'bring', 'build', 'cause', 'chop', 'choreograph', 'clear', 'cleave', 'compose', 'construct', 'copy', 'create', 'create_by_mental_act', 'create_from_raw_material', 'create_verbally', 'cut', 'cut', 'derive', 'direct', 'distill', 'establish', 'film-make', 'film', 'form', 'froth', 'generate', 'give', 'grind', 'incorporate', 'institute', 'lay_down', 'manufacture', 'offset', 'originate', 'prepare', 'press', 'produce', 'produce', 'puncture', 'put_on', 'raise', 'raise', 're-create', 'realize', 'recreate', 'regenerate', 'reproduce', 'scrape', 'short-circuit', 'strike', 'style', 'track', 'twine', 'bring', 'compel', 'decide', 'encourage', 'lead', 'let', 'persuade', 'prompt', 'solicit', 'suborn', 'determine', 'effect', 'engender', 'facilitate', 'impel', 'initiate', 'make', 'motivate', 'occasion', 'provoke', 'bootleg', 'breed', 'churn_out', 'clap_up', 'confect', 'custom-make', 'cut', 'dummy', 'elaborate', 'extrude', 'fudge_together', 'generate', 'laminate', 'machine', 'output', 'overproduce', 'prefabricate', 'prefabricate', 'print', 'proof', 'pulse', 'put_out', 'remake', 'render', 'reproduce', 'smelt', 'turn_out', 'underproduce', 'drive', 'design', 'design', 'do', 'eke_out', 'gross', 'profit', 'rake_in', 'rake_off', 'take_home', 'yield', 'add', 'chelate', 'compile', 'compose', 'cooper', 'fashion', 'manufacture', 'pay', 'cantilever', 'channelize', 'corduroy', 'customize', 'dry-wall', 'frame', 'groin', 'lock', 'raise', 'rebuild', 'revet', 'wattle', 'rename', 'access', 'bottom_out', 'catch_up', 'culminate', 'find', 'get_through', 'ground', 'make', 'scale', 'summit', 'top', 'top_out', 'set', 'dung', 'bushwhack', 'claw', 'jostle', 'concoct', 'deglaze', 'devil', 'dress', 'flambe', 'lard', 'precook', 'preserve', 'put_on', 'scallop', 'whip_up', 'go_through_the_motions', 'stale', 'wet']
+
+token:  good
+['common_good', 'beneficence', 'benignity', 'kindness', 'saintliness', 'summum_bonum', 'virtue', 'virtue', 'benefit', 'better', 'better', 'desirability', 'optimum', 'wisdom', 'worthiness', 'basic', 'consumer_goods', 'drygoods', 'entrant', 'export', 'fancy_goods', 'fungible', 'future', 'import', 'merchandise', 'middling', 'salvage', 'shopping', 'sporting_goods', 'worldly_possession']
+
+token:  bad
+['evil', 'inadvisability', 'liability', 'undesirability', 'unsoundness', 'unworthiness', 'worse']
+
+token:  arising
+['come', 'come_forth', 'head', 'resurge', 'well_up', 'take_the_floor', 'come_up', 'condense', 'open', 'bubble', 'chandelle', 'climb', 'go_up', 'rise', 'rocket', 'scend', 'soar', 'steam', 'uplift', 'mutiny', 'revolt']
+
+token:  form
+['abbreviation', 'acronym', 'citation_form', 'etymon', 'ghost_word', 'plural', 'root', 'singular', 'antitype', 'art_form', 'brand', 'color', 'description', 'flavor', 'genre', 'genus', 'like', 'like', 'manner', 'model', 'species', 'stripe', 'style', 'type', 'fractal', 'gestalt', 'grid', 'kaleidoscope', 'mosaic', 'strand', 'angularity', 'concavity', 'convexity', 'crookedness', 'curvature', 'dullness', 'lobularity', 'narrowing', 'roundness', 'sharpness', 'straightness', 'stratification', 'topography', 'adult_body', 'female_body', 'juvenile_body', 'male_body', 'person', 'amorphous_shape', 'angular_shape', 'circle', 'column', 'connection', 'distorted_shape', 'figure', 'flare', 'line', 'natural_shape', 'plane', 'plume', 'round_shape', 'solid', 'square', 'triangle', 'application_form', 'claim_form', 'order_form', 'questionnaire', 'requisition', 'tax_form', 'telegraph_form', 'versification', 'dispersed_phase', 'dispersing_phase', 'master_class', 'section', 'choose_up', 'draw_up', 'regiment', 'reorganize', 'syndicate', 'add', 'chelate', 'regenerate', 'block', 'block', 'blow', 'crystallize', 'cup', 'deform', 'dimension', 'dish', 'draw', 'encircle', 'fit', 'flatten', 'fork', 'individuate', 'plume', 'ridge', 'roll', 'round', 'scallop', 'sliver', 'square', 'strike', 'tabulate', 'terrace', 'tie', 'turn', 'twist', 'beat', 'carve', 'cast', 'chip', 'cut_out', 'grind', 'handbuild', 'hill', 'layer', 'machine', 'model', 'mound', 'preform', 'preform', 'puddle', 'reshape', 'roughcast', 'sculpt', 'sinter', 'stamp', 'swage', 'throw', 'bead', 'brecciate', 'bunch', 'conglobate', 'constellate', 'culminate', 'flake', 'granulate', 'head', 'reticulate']
+
+token:  percieve
+[]
+
+token:  towards
+[]
+
+token:  others
+[]
+
+token:  sentiment
+['razbliuto', 'sentimentality', 'eyes', 'idea', 'judgment', 'pole', 'politics', 'preconception']
+
+token:  entity
+['abstraction', 'physical_entity', 'thing']
+
+token:  throw
+['bowling', 'fling', 'flip', 'heave', 'hurl', 'leaner', 'pass', 'pitch', 'pitch', 'ringer', 'shy', 'slinging', 'throw-in', 'instroke', 'outstroke', 'cast', 'flip', 'chuck', 'deep-six', 'defenestrate', 'deliver', 'drive', 'fling', 'flip', 'ground', 'heave', 'hurl', 'jettison', 'juggle', 'lob', 'pass', 'pelt', 'prostrate', 'ridge', 'shy', 'skim', 'slam', 'abscise', 'autotomize', 'exfoliate', 'shed', 'pop', 'switch_off', 'switch_on', 'shoot', 'shoot', 'demoralize', 'disorient', 'perplex']
+
+token:  word
+['anagram', 'anaphor', 'antonym', 'back-formation', 'charade', 'classifier', 'cognate', 'content_word', 'contraction', 'deictic', 'derivative', 'diminutive', 'dirty_word', 'disyllable', 'form', 'four-letter_word', 'function_word', 'guide_word', 'head', 'headword', 'heteronym', 'holonym', 'homonym', 'hypernym', 'hyponym', 'key_word', 'loanblend', 'loanword', 'meronym', 'metonym', 'monosyllable', 'neologism', 'nonce_word', 'oxytone', 'palindrome', 'paroxytone', 'partitive', 'polysemant', 'polysyllable', 'primitive', 'proparoxytone', 'quantifier', 'quantifier', 'reduplication', 'retronym', 'substantive', 'syncategorem', 'synonym', 'term', 'terminology', 'trisyllable', 'troponym', 'vocable', 'written_word', 'good_word', 'latest', 'update', 'argument', 'conference', 'deliberation', 'negotiation', 'panel_discussion', 'postmortem', 'public_discussion', 'family_Bible', 'ask', 'dogmatize', 'formularize', 'frame', 'lexicalize']
+
+token:  body
+['human_body', 'life_form', 'live_body', 'administration', 'Christendom', 'church', 'college', 'colony', 'constituency', 'corps', 'diaspora', 'electoral_college', 'immigration', 'inspectorate', 'jury', 'leadership', 'membership', 'militia', 'occupational_group', 'opposition', 'panel', 'panel', 'public', 'registration', 'representation', 'Sacred_College', 'school', 'staff', 'ulema', 'university', 'vote', 'cadaver', 'carcase', 'carrion', 'mummy', 'roadkill', 'chromosome', 'inclusion_body', 'mass', 'particle', 'breakableness', 'gaseousness', 'hardness', 'porosity', 'softness', 'solidity', 'thickness', 'thinness', 'unbreakableness', 'viscosity', 'bodywork', 'fuselage']
+
+token:  moment
+['climax', 'eleventh_hour', 'moment_of_truth', 'moment_of_truth', 'pinpoint', 'psychological_moment', 'time', 'blink_of_an_eye', 'hell_to_pay', 'matter', 'dipole_moment', 'moment_of_a_couple', 'moment_of_inertia', 'second_moment', 'variance']
+
+token:  experienced
+['come', 'enjoy', 'feel', 'know', 'suffer', 'suffer', 'witness', 'relive', 'taste', 'horripilate', 'suffer', 'take', 'anger', 'burn', 'chafe', 'cool_off', 'die', 'fly_high', 'fume', 'glow', 'glow', 'harbor', 'incline', 'pride', 'recapture', 'rejoice', 'repent', 'sadden', 'smolder', 'suffer', 'sympathize', 'take_pride', 'meet']
+
+token:  sentient
+[]
+
+token:  cause
+['antecedent', 'etiology', 'factor', 'mutagenesis', 'producer', 'advertising_campaign', 'anti-war_movement', 'campaigning', 'charm_campaign', 'consumerism', 'feminist_movement', 'fund-raising_campaign', 'gay_liberation_movement', 'lost_cause', 'reform', 'war', 'youth_movement', 'agent', 'agent', 'catalyst', 'cause_of_death', 'danger', 'destiny', 'deus_ex_machina', 'engine', 'first_cause', 'nature', 'operator', 'person', 'power', 'supernatural', 'theurgy', 'vital_principle', 'civil_suit', 'class_action', 'countersuit', 'criminal_suit', 'moot', 'paternity_suit', 'determine', 'effect', 'engender', 'facilitate', 'impel', 'initiate', 'make', 'motivate', 'occasion', 'provoke', 'bring', 'compel', 'decide', 'encourage', 'lead', 'let', 'persuade', 'prompt', 'solicit', 'suborn']
+
+token:  event
+['act', 'group_action', 'happening', 'makeup', 'might-have-been', 'migration', 'miracle', 'nonevent', 'social_event', 'zap', 'aftereffect', 'aftermath', 'bandwagon_effect', 'brisance', 'butterfly_effect', 'by-product', 'change', 'coattails_effect', 'Coriolis_effect', 'dent', 'domino_effect', 'harvest', 'impact', 'influence', 'knock-on_effect', 'offspring', 'outgrowth', 'placebo_effect', 'position_effect', 'product', 'repercussion', 'response', 'side_effect', 'spillover']
+
+token:  happening
+['accident', 'accompaniment', 'appearance', 'avalanche', 'beginning', 'boom', 'case', 'change', 'collapse', 'contact', 'convergence', 'crash', 'destiny', 'disappearance', 'disappearance', 'discharge', 'ending', 'episode', 'error', 'eventuality', 'experience', 'failure', 'finish', 'fire', 'flash', 'incident', 'interruption', 'juncture', 'miracle', 'movement', 'news_event', 'one-off', 'outbreak', 'outburst', 'periodic_event', 'reverse', 'sound', 'success', 'supervention', 'thing', 'treat', 'trouble', 'union', 'wonder', 'anticipate', 'arise', 'backfire', 'befall', 'break', 'break', 'chance', 'come', 'come_around', 'concur', 'develop', 'fall', 'fall', 'give', 'go_off', 'happen', 'happen', 'intervene', 'operate', 'proceed', 'recur', 'result', 'supervene', 'synchronize', 'transpire', 'turn_out', 'appear']
+
+token:  outside
+['outdoors']
+
+token:  world
+['closed_universe', 'natural_order', 'nature', 'academia', 'Grub_Street', 'real_world', 'admass']
+
+token:  well
+['artesian_well', 'driven_well', 'gas_well', 'oil_well', 'sump', 'inkwell', 'stairwell', 'bilge_well', 'pump_well']
+
+token:  's
+[]
+
+token:  ming
+[]
+
+token:  sentimental
+[]
+
+token:  reation
+[]
+
+token:  action
+['accomplishment', 'aggression', 'alienation', 'application', 'arrival', 'beatification', 'bruxism', 'change', 'choice', 'course', 'destabilization', 'economy', 'emphasizing', 'employment', 'fetch', 'interaction', 'jumpstart', 'kindness', 'performance', 'pickings', 'play', 'playing', 'politeness', 'prohibition', 'reference', 'res_gestae', 'resistance', 'reverence', 'stupefaction', 'thing', 'transfusion', 'transgression', 'vampirism', 'agency', 'behavior', 'busyness', 'eruption', 'operation', 'overdrive', 'play', 'swing', 'amphibious_landing', 'battle', 'blockade', 'defense', 'electronic_warfare', 'police_action', 'resistance', 'saber_rattling', 'sortie', 'war', 'absorption', 'acidification', 'adiabatic_process', 'aeration', 'antiredeposition', 'capture', 'capture', 'centrifugation', 'chemical_process', 'chromatography', 'concretion', 'condensation', 'convection', 'curdling', 'decay', 'demagnetization', 'desorption', 'diffusion', 'dissolution', 'distillation', 'drift', 'effervescence', 'electrophoresis', 'establishment', 'extinction', 'extraction', 'feedback', 'filtration', 'flocculation', 'flow', 'formation', 'fossilization', 'geological_process', 'hardening', 'inactivation', 'ion_exchange', 'ionization', 'leach', 'magnetization', 'materialization', 'nuclear_reaction', 'opacification', 'oscillation', 'oxygenation', 'pair_production', 'phase_change', 'precession_of_the_equinoxes', 'radiation', 'release', 'saltation', 'scattering', 'sericulture', 'sink', 'soak', 'softening', 'sorption', 'source', 'stiffening', 'stimulation', 'succession', 'survival', 'synergy', 'temperature_change', 'transduction', 'transpiration', 'vitrification', 'gunlock', 'movement', 'piano_action', 'pump_action', 'antitrust_case', 'civil_action', 'counterclaim', 'custody_case', 'lis_pendens', 'prosecution', 'test_case', 'expedite', 'consummate', 'consummate', 'dispatch', 'do', 'get_over', 'run']
+
+token:  eg
+[]
+
+token:  happyness
+[]
+
+token:  sadness
+['cheerlessness', 'depression', 'dolefulness', 'downheartedness', 'forlornness', 'heaviness', 'melancholy', 'misery', 'sorrow', 'sorrow', 'weepiness', 'mourning', 'poignance']
+
+token:  love
+['agape', 'agape', 'amorousness', 'ardor', 'benevolence', 'devotion', 'filial_love', 'heartstrings', 'lovingness', 'loyalty', 'puppy_love', 'worship', 'adore', 'care_for', 'dote', 'love', 'get_off', 'romance', 'fornicate', 'take']
+
+token:  general
+['Blucher']
+
+token:  deriving
+['elicit', 'extrapolate', 'surmise', 'reap', 'etymologize']
+
+token:  life
+['ghetto', 'eternal_life', 'skin', 'survival', 'afterlife', 'days', 'airiness', 'alacrity', 'breeziness', 'elan', 'energy', 'esprit', 'exuberance', 'high-spiritedness', 'irrepressibility', 'pep', 'pertness', 'wildlife', 'aerobiosis', 'biology', 'autobiography', 'hagiography', 'profile']
+
+token:  psychic
+['clairvoyant', 'medium', 'spirit_rapper']
+
+token:  affect
+['hit', 'hydrolize', 'influence', 'process', 'queer', 'redound', 'repercuss', 'slam-dunk', 'stimulate', 'strike_a_blow', 'subject', 'tell_on', 'tinge', 'trouble', 'attack', 'cramp', 'intoxicate', 'jaundice', 'register', 'relax', 'sedate', 'stimulate', 'tense', 'ulcerate', 'implicate', 'mouth', 'play_possum', 'take_a_dive', "talk_through_one's_hat", 'alienate', 'awaken', 'cloud', 'disturb', 'engrave', 'hit_home', 'impress', 'impress', 'infect', 'jar', 'move', 'pierce', 'sadden', 'smite', 'strike_dumb', 'surprise', 'sweep_away', 'touch', 'zap']
+
+token:  someone
+['abator', 'abjurer', 'abomination', 'abstainer', 'achiever', 'acquaintance', 'acquirer', 'active', 'actor', 'adjudicator', 'admirer', 'adoptee', 'adult', 'adventurer', 'adversary', 'advisee', 'advocate', 'affiant', 'African', 'agnostic', 'amateur', 'Amerindian', 'ancient', 'anomaly', 'anti-American', 'anti', 'applicant', 'appointee', 'appreciator', 'apprehender', 'Aquarius', 'archaist', 'Aries', 'arrogator', 'assessee', 'asthmatic', 'authority', 'autodidact', 'baby_boomer', 'baby_buster', 'bad_guy', 'bad_person', 'baldhead', 'balker', 'bather', 'beard', 'bedfellow', 'bereaved', 'best', 'birth', 'biter', 'Black', 'blogger', 'blond', 'bluecoat', 'bodybuilder', 'bomber', 'brunet', 'bullfighter', 'buster', 'Cancer', 'candidate', 'capitalist', 'Capricorn', 'captor', 'case', 'cashier', 'celebrant', 'censor', 'chameleon', 'changer', 'charmer', 'child', 'chutzpanik', 'closer', 'clumsy_person', 'collector', 'color-blind_person', 'combatant', 'commoner', 'communicator', 'complexifier', 'compulsive', 'computer_user', 'contemplative', 'contestant', 'convert', 'copycat', 'counter', 'counterterrorist', 'coward', 'crawler', 'creator', 'creature', 'creditor', 'cripple', 'dancer', 'dead_person', 'deaf_person', 'debaser', 'debtor', 'defecator', 'delayer', 'deliverer', 'demander', 'dieter', 'differentiator', 'disentangler', 'disputant', 'dissenter', 'divider', 'domestic_partner', 'double', 'dresser', 'dribbler', 'drug_user', 'dyslectic', 'ectomorph', 'effecter', 'Elizabethan', 'emotional_person', 'endomorph', 'engineer', 'enjoyer', 'enrollee', 'entertainer', 'ethnic', 'experimenter', 'expert', 'explorer', 'extrovert', 'face', 'faddist', 'faller', 'fastener', 'female', 'fiduciary', 'first-rater', 'follower', 'free_agent', 'friend', 'fugitive', 'gainer', 'gainer', 'gambler', 'gatekeeper', 'gatherer', 'Gemini', 'gentile', 'good_guy', 'good_person', 'granter', 'greeter', 'grinner', 'groaner', 'grunter', 'guesser', 'handicapped_person', 'hater', 'heterosexual', 'homosexual', 'homunculus', 'hope', 'hoper', 'huddler', 'hugger', 'immune', 'individualist', 'inhabitant', 'innocent', 'insured', 'intellectual', 'interpreter', 'introvert', 'Jat', 'Jew', 'jewel', 'jumper', 'junior', 'juvenile', 'killer', 'kink', 'kneeler', 'knocker', 'knower', 'large_person', 'Latin', 'laugher', 'leader', 'learner', 'left-hander', 'Leo', 'Libra', 'life', 'lightning_rod', 'linguist', 'literate', 'liver', 'longer', 'loose_cannon', 'loved_one', 'lover', 'machine', 'mailer', 'malcontent', 'male', 'man', 'man_jack', 'manipulator', 'married', 'masturbator', 'measurer', 'mesomorph', 'mestizo', 'middlebrow', 'miracle_man', 'misogamist', 'mixed-blood', 'modern', 'money_handler', 'monolingual', 'mother_hen', 'mouse', 'mutilator', 'namer', 'namesake', 'national', 'native', 'native', 'neglecter', 'neighbor', 'neutral', 'nondescript', 'nonmember', 'nonparticipant', 'nonpartisan', 'nonperson', 'nonreligious_person', 'nonresident', 'nonsmoker', 'nonworker', 'nude', 'nurser', 'occultist', 'optimist', 'orphan', 'ostrich', 'ouster', 'outcaste', 'outdoorsman', 'owner', 'pamperer', 'pansexual', 'pardoner', 'partner', 'party', 'passer', 'peer', 'perceiver', 'percher', 'person_of_color', 'personage', 'personification', 'perspirer', 'philosopher', 'picker', 'Pisces', 'pisser', 'planner', 'player', 'posturer', 'powderer', 'precursor', 'preserver', 'primitive', 'propositus', 'public_relations_person', 'pursuer', 'pussycat', 'quarter', 'quitter', 'radical', 'realist', 'rectifier', 'redhead', 'registrant', 'relative', 'reliever', 'religious_person', 'repeater', 'rescuer', 'rester', 'restrainer', 'revenant', 'rich_person', 'right-hander', 'riser', 'romper', 'roundhead', 'ruler', 'rusher', 'Sagittarius', 'scientist', 'Scorpio', 'scratcher', 'second-rater', 'seeder', 'seeker', 'segregate', 'self', 'sensualist', 'sentimentalist', 'sex_object', 'sex_symbol', 'shaker', 'showman', 'signer', 'simpleton', 'six-footer', 'skidder', 'Slav', 'slave', 'slave', 'sleepyhead', 'sloucher', 'small_person', 'smasher', 'smiler', 'sneezer', 'sniffer', 'sniffler', 'snuffer', 'snuffler', 'socializer', 'sort', 'sounding_board', 'sphinx', 'spitter', 'sport', 'sprawler', 'spurner', 'squinter', 'stifler', 'stigmatic', 'stooper', 'stranger', 'struggler', 'subject', 'supernumerary', 'surrenderer', 'survivalist', 'survivor', 'suspect', 'tagger', 'tagger', 'tapper', 'Taurus', 'tempter', 'termer', 'terror', 'testator', 'thin_person', 'third-rater', 'thrower', 'tiger', 'totemist', 'toucher', 'transfer', 'transsexual', 'transvestite', 'traveler', 'trier', 'turner', 'tyrant', 'undoer', 'unfortunate', 'unskilled_person', 'unwelcome_person', 'user', 'vanisher', 'victim', 'Victorian', 'Virgo', 'visionary', 'visually_impaired_person', 'waiter', 'waker', 'walk-in', 'wanter', 'ward', 'warrior', 'watcher', 'weakling', 'weasel', 'White', 'wiggler', 'winker', 'withholder', 'witness', 'worker', 'worldling', 'yawner']
+
+token:  either
+[]
+
+token:  positive
+[]
+
+token:  negative
+['double_negative', 'nay', 'no', 'kill']
+
+token:  way
+['artistic_style', 'drape', 'fit', 'form', 'life_style', 'response', 'setup', 'touch', 'wise', 'desperate_measure', 'dint', 'escape', 'expedient', 'fast_track', 'instrument', 'open_sesame', 'road', 'salvation', 'stepping_stone', 'tooth', 'voice', 'wings', 'bearing', 'course', 'east-west_direction', 'north-south_direction', 'qibla', 'tendency', 'ambages', 'primrose_path', 'straight_and_narrow', 'Sunnah', 'warpath', 'access', 'lane', 'passage', 'path', 'road', 'stairway', 'watercourse', 'breathing_room', 'headroom', 'houseroom', 'living_space', 'parking', 'sea_room', 'seating', 'standing_room']
+
+token:  particular
+['highlight']
+
+token:  person
+['abator', 'abjurer', 'abomination', 'abstainer', 'achiever', 'acquaintance', 'acquirer', 'active', 'actor', 'adjudicator', 'admirer', 'adoptee', 'adult', 'adventurer', 'adversary', 'advisee', 'advocate', 'affiant', 'African', 'agnostic', 'amateur', 'Amerindian', 'ancient', 'anomaly', 'anti-American', 'anti', 'applicant', 'appointee', 'appreciator', 'apprehender', 'Aquarius', 'archaist', 'Aries', 'arrogator', 'assessee', 'asthmatic', 'authority', 'autodidact', 'baby_boomer', 'baby_buster', 'bad_guy', 'bad_person', 'baldhead', 'balker', 'bather', 'beard', 'bedfellow', 'bereaved', 'best', 'birth', 'biter', 'Black', 'blogger', 'blond', 'bluecoat', 'bodybuilder', 'bomber', 'brunet', 'bullfighter', 'buster', 'Cancer', 'candidate', 'capitalist', 'Capricorn', 'captor', 'case', 'cashier', 'celebrant', 'censor', 'chameleon', 'changer', 'charmer', 'child', 'chutzpanik', 'closer', 'clumsy_person', 'collector', 'color-blind_person', 'combatant', 'commoner', 'communicator', 'complexifier', 'compulsive', 'computer_user', 'contemplative', 'contestant', 'convert', 'copycat', 'counter', 'counterterrorist', 'coward', 'crawler', 'creator', 'creature', 'creditor', 'cripple', 'dancer', 'dead_person', 'deaf_person', 'debaser', 'debtor', 'defecator', 'delayer', 'deliverer', 'demander', 'dieter', 'differentiator', 'disentangler', 'disputant', 'dissenter', 'divider', 'domestic_partner', 'double', 'dresser', 'dribbler', 'drug_user', 'dyslectic', 'ectomorph', 'effecter', 'Elizabethan', 'emotional_person', 'endomorph', 'engineer', 'enjoyer', 'enrollee', 'entertainer', 'ethnic', 'experimenter', 'expert', 'explorer', 'extrovert', 'face', 'faddist', 'faller', 'fastener', 'female', 'fiduciary', 'first-rater', 'follower', 'free_agent', 'friend', 'fugitive', 'gainer', 'gainer', 'gambler', 'gatekeeper', 'gatherer', 'Gemini', 'gentile', 'good_guy', 'good_person', 'granter', 'greeter', 'grinner', 'groaner', 'grunter', 'guesser', 'handicapped_person', 'hater', 'heterosexual', 'homosexual', 'homunculus', 'hope', 'hoper', 'huddler', 'hugger', 'immune', 'individualist', 'inhabitant', 'innocent', 'insured', 'intellectual', 'interpreter', 'introvert', 'Jat', 'Jew', 'jewel', 'jumper', 'junior', 'juvenile', 'killer', 'kink', 'kneeler', 'knocker', 'knower', 'large_person', 'Latin', 'laugher', 'leader', 'learner', 'left-hander', 'Leo', 'Libra', 'life', 'lightning_rod', 'linguist', 'literate', 'liver', 'longer', 'loose_cannon', 'loved_one', 'lover', 'machine', 'mailer', 'malcontent', 'male', 'man', 'man_jack', 'manipulator', 'married', 'masturbator', 'measurer', 'mesomorph', 'mestizo', 'middlebrow', 'miracle_man', 'misogamist', 'mixed-blood', 'modern', 'money_handler', 'monolingual', 'mother_hen', 'mouse', 'mutilator', 'namer', 'namesake', 'national', 'native', 'native', 'neglecter', 'neighbor', 'neutral', 'nondescript', 'nonmember', 'nonparticipant', 'nonpartisan', 'nonperson', 'nonreligious_person', 'nonresident', 'nonsmoker', 'nonworker', 'nude', 'nurser', 'occultist', 'optimist', 'orphan', 'ostrich', 'ouster', 'outcaste', 'outdoorsman', 'owner', 'pamperer', 'pansexual', 'pardoner', 'partner', 'party', 'passer', 'peer', 'perceiver', 'percher', 'person_of_color', 'personage', 'personification', 'perspirer', 'philosopher', 'picker', 'Pisces', 'pisser', 'planner', 'player', 'posturer', 'powderer', 'precursor', 'preserver', 'primitive', 'propositus', 'public_relations_person', 'pursuer', 'pussycat', 'quarter', 'quitter', 'radical', 'realist', 'rectifier', 'redhead', 'registrant', 'relative', 'reliever', 'religious_person', 'repeater', 'rescuer', 'rester', 'restrainer', 'revenant', 'rich_person', 'right-hander', 'riser', 'romper', 'roundhead', 'ruler', 'rusher', 'Sagittarius', 'scientist', 'Scorpio', 'scratcher', 'second-rater', 'seeder', 'seeker', 'segregate', 'self', 'sensualist', 'sentimentalist', 'sex_object', 'sex_symbol', 'shaker', 'showman', 'signer', 'simpleton', 'six-footer', 'skidder', 'Slav', 'slave', 'slave', 'sleepyhead', 'sloucher', 'small_person', 'smasher', 'smiler', 'sneezer', 'sniffer', 'sniffler', 'snuffer', 'snuffler', 'socializer', 'sort', 'sounding_board', 'sphinx', 'spitter', 'sport', 'sprawler', 'spurner', 'squinter', 'stifler', 'stigmatic', 'stooper', 'stranger', 'struggler', 'subject', 'supernumerary', 'surrenderer', 'survivalist', 'survivor', 'suspect', 'tagger', 'tagger', 'tapper', 'Taurus', 'tempter', 'termer', 'terror', 'testator', 'thin_person', 'third-rater', 'thrower', 'tiger', 'totemist', 'toucher', 'transfer', 'transsexual', 'transvestite', 'traveler', 'trier', 'turner', 'tyrant', 'undoer', 'unfortunate', 'unskilled_person', 'unwelcome_person', 'user', 'vanisher', 'victim', 'Victorian', 'Virgo', 'visionary', 'visually_impaired_person', 'waiter', 'waker', 'walk-in', 'wanter', 'ward', 'warrior', 'watcher', 'weakling', 'weasel', 'White', 'wiggler', 'winker', 'withholder', 'witness', 'worker', 'worldling', 'yawner', 'first_person', 'second_person', 'third_person']
+
+token:  caused
+['determine', 'effect', 'engender', 'facilitate', 'impel', 'initiate', 'make', 'motivate', 'occasion', 'provoke', 'bring', 'compel', 'decide', 'encourage', 'lead', 'let', 'persuade', 'prompt', 'solicit', 'suborn']
+
+token:  internal
+[]
+
+token:  external
+[]
+
+token:  reaction
+['addition_reaction', 'aldol_reaction', 'chain_reaction', 'chemical_equilibrium', 'decomposition', 'displacement', 'double_decomposition', 'elimination_reaction', 'endothermic_reaction', 'exothermic_reaction', 'hydrolysis', 'neutralization', 'oxidation-reduction', 'oxidation', 'photochemical_reaction', 'reduction', 'saponification', 'answer', 'automatism', 'double_take', 'galvanic_skin_response', 'immune_response', 'kinesis', 'learned_reaction', 'overreaction', 'passage', 'rebound', 'reflex', 'taxis', 'transfusion_reaction', 'tropism', 'backlash']
+
+token:  strong
+[]
+
+token:  feeling/state
+[]
+
+token:  felt
+['anger', 'burn', 'chafe', 'cool_off', 'die', 'fly_high', 'fume', 'glow', 'glow', 'harbor', 'incline', 'pride', 'recapture', 'rejoice', 'repent', 'sadden', 'smolder', 'suffer', 'sympathize', 'take_pride', 'feel_like_a_million', 'suffocate', 'crawl', 'grope_for']
+
+token:  agent
+['biological_agent', 'eliminator', 'impairer', 'infectious_agent', 'lethal_agent', 'motor', 'mutagen', 'quickener', 'relaxer', 'repressor', 'retardant', 'satisfier', 'shortener', 'stressor', 'teratogen', 'vasoconstrictor', 'vector', 'weakener', 'bailee', 'booker', 'business_agent', 'deputy', 'employment_agent', 'freight_agent', 'government_agent', 'handler', 'literary_agent', 'mill_agent', 'next_friend', 'parliamentary_agent', 'proxy', 'purchasing_agent', 'secret_agent', 'shipping_agent', 'shopper', 'special_agent', 'talent_agent', 'universal_agent', 'antacid', 'antiflatulent', 'antifungal', 'bacteriostat', 'bleaching_agent', 'chemical_agent', 'coagulant', 'coolant', 'dilutant', 'disinfectant', 'drug', 'emmenagogue', 'galactagogue', 'hypnagogue', 'hypoglycemic_agent', 'inducer', 'lactifuge', 'lactogen', 'mitogen', 'nerve_gas', 'precipitant', 'solvating_agent', 'vermicide', 'viricide', 'auctioneer', 'insurance_broker', 'investment_banker', 'real_estate_broker', 'ship_broker', 'stockbroker', 'syndic', 'travel_agent', 'Federal', 'Indian_agent', 'trustbuster']
+
+token:  dued
+[]
+
+token:  created
+['arouse', 'assemble', 'bear', 'beat', 'beget', 'blast', 'bring', 'build', 'cause', 'chop', 'choreograph', 'clear', 'cleave', 'compose', 'construct', 'copy', 'create', 'create_by_mental_act', 'create_from_raw_material', 'create_verbally', 'cut', 'cut', 'derive', 'direct', 'distill', 'establish', 'film-make', 'film', 'form', 'froth', 'generate', 'give', 'grind', 'incorporate', 'institute', 'lay_down', 'manufacture', 'offset', 'originate', 'prepare', 'press', 'produce', 'produce', 'puncture', 'put_on', 'raise', 'raise', 're-create', 'realize', 'recreate', 'regenerate', 'reproduce', 'scrape', 'short-circuit', 'strike', 'style', 'track', 'twine', 'carve_out', 'develop', 'reinvent', 'build', 'draw', 'paint', 'design', 'design', 'do', 'bootleg', 'breed', 'churn_out', 'clap_up', 'confect', 'custom-make', 'cut', 'dummy', 'elaborate', 'extrude', 'fudge_together', 'generate', 'laminate', 'machine', 'output', 'overproduce', 'prefabricate', 'prefabricate', 'print', 'proof', 'pulse', 'put_out', 'remake', 'render', 'reproduce', 'smelt', 'turn_out', 'underproduce']
+
+token:  physical
+[]
