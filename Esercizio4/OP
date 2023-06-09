@@ -1,4 +1,4 @@
-- devo ripensare come ricalcolare recalulate-breakpoints
+- trovare le casistiche in cui non funziona
 
 PUNTI:
 1. calcolo occorrenze delle parole in ogni frase (word_per_sentence)
