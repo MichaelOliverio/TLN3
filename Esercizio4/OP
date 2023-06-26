@@ -1,6 +1,4 @@
-- trovare le casistiche in cui non funziona
-- dovrebbe essere ok, il problema è calcolare qual è la suddivisione migliore (per ora
-  controllo il numero di parole medie in comune per frasi successive per cluster)
+- va bene il modo in cui scelgio la best segmentation?
 
 PUNTI:
 1. calcolo occorrenze delle parole in ogni frase (word_per_sentence)
