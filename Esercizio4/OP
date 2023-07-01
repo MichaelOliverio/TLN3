@@ -1,8 +1,0 @@
-- va bene il modo in cui scelgio la best segmentation?
-
-PUNTI:
-1. calcolo occorrenze delle parole in ogni frase (word_per_sentence)
-2. divido word_per_sentence in k parti uguali e ottengo i break_points
-3. calcolo la coesione delle parti (overlap 2 a 2, words_count)
-4. in base alle coesioni risetto i break_points e ricalcolo le parti
-5. calcolo la coesione delle parti
